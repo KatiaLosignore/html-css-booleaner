@@ -55,3 +55,15 @@ main p span {
 #list {
     padding-left: 20px;
 }
+
+table th{
+    width: 500px;
+    text-align: left;
+    color:white;
+    background-color: hsl(199, 100%, 50%);
+}
+
+.background-text {
+    background-color: rgba(129,212,249,1);
+}
+
