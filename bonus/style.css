@@ -20,7 +20,15 @@ header img {
     margin-left: 425px;
 }
 
-footer span {
+#img1 {
+ width: 49%;
+}
+
+#img2 {
+    width: 42%;
+}
+
+#color {
     color:rgb(0, 153, 255);
 }
 
@@ -41,13 +49,14 @@ footer span {
     margin-bottom: 0;
 }
 
-footer h1 {
+div h1 {
     margin-bottom: 0;
 }
 
 figure {
     margin: 0;
 }
+    
 
 main p span {
     background-color: yellow;
@@ -55,6 +64,10 @@ main p span {
 
 #list {
     padding-left: 20px;
+}
+
+table {
+    border-collapse: collapse;
 }
 
 table th{
